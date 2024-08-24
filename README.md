@@ -1,6 +1,4 @@
 - Hi, I’m @renPratt 
-- I'm a current college student 
-- I’m learning about C, C++, software engineering, and a bunch of other stuff 
 - Reach me at casey.renee.pratt@gmail.com 
 
 <!---
